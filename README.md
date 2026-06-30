@@ -1,4 +1,6 @@
-<img width="722" height="256" alt="image" src="https://github.com/user-attachments/assets/c54924dd-8cef-4ba6-9d0b-48aa72832c44" /># 
+<img width="722" height="256" alt="image" src="https://github.com/user-attachments/assets/c54924dd-8cef-4ba6-9d0b-48aa72832c44" />
+
+ 
 🌤️ Skyline Weather Dashboard
 
 A modern, responsive Weather Dashboard built with **HTML5, CSS3, and Vanilla JavaScript** that provides real-time weather information using the **OpenWeatherMap REST API**. Users can search for any city, view current weather conditions, hourly and 5-day forecasts, and additional weather metrics through a clean and interactive interface.
